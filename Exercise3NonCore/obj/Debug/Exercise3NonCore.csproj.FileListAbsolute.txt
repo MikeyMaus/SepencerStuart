@@ -1,0 +1,23 @@
+C:\Spencer Stuart\Exercises\Exercise3NonCore\bin\Debug\Exercise3NonCore.pdb
+C:\Spencer Stuart\Exercises\Exercise3NonCore\bin\Debug\nunit.framework.dll
+C:\Spencer Stuart\Exercises\Exercise3NonCore\bin\Debug\nunit.framework.xml
+C:\Spencer Stuart\Exercises\Exercise3NonCore\obj\Debug\Exercise3NonCore.pdb
+C:\Spencer Stuart\Exercises\Exercise3NonCore\bin\Debug\Exercise3NonCore.dll.config
+C:\Spencer Stuart\Exercises\Exercise3NonCore\bin\Debug\Exercise3NonCore.dll
+C:\Spencer Stuart\Exercises\Exercise3NonCore\obj\Debug\Exercise3NonCore.dll
+C:\CodeZone\SS-master\SS-master\Exercises\Exercise3NonCore\bin\Debug\Exercise3NonCore.dll.config
+C:\CodeZone\SS-master\SS-master\Exercises\Exercise3NonCore\bin\Debug\Exercise3NonCore.dll
+C:\CodeZone\SS-master\SS-master\Exercises\Exercise3NonCore\bin\Debug\Exercise3NonCore.pdb
+C:\CodeZone\SS-master\SS-master\Exercises\Exercise3NonCore\bin\Debug\nunit.framework.dll
+C:\CodeZone\SS-master\SS-master\Exercises\Exercise3NonCore\bin\Debug\nunit.framework.xml
+C:\CodeZone\SS-master\SS-master\Exercises\Exercise3NonCore\obj\Debug\Exercise3NonCore.csprojResolveAssemblyReference.cache
+C:\CodeZone\SS-master\SS-master\Exercises\Exercise3NonCore\obj\Debug\Exercise3NonCore.dll
+C:\CodeZone\SS-master\SS-master\Exercises\Exercise3NonCore\obj\Debug\Exercise3NonCore.pdb
+C:\Spencer Stuart\V2\Exercises\Exercises\Exercise3NonCore\bin\Debug\Exercise3NonCore.dll.config
+C:\Spencer Stuart\V2\Exercises\Exercises\Exercise3NonCore\bin\Debug\Exercise3NonCore.dll
+C:\Spencer Stuart\V2\Exercises\Exercises\Exercise3NonCore\bin\Debug\Exercise3NonCore.pdb
+C:\Spencer Stuart\V2\Exercises\Exercises\Exercise3NonCore\bin\Debug\nunit.framework.dll
+C:\Spencer Stuart\V2\Exercises\Exercises\Exercise3NonCore\bin\Debug\nunit.framework.xml
+C:\Spencer Stuart\V2\Exercises\Exercises\Exercise3NonCore\obj\Debug\Exercise3NonCore.csprojResolveAssemblyReference.cache
+C:\Spencer Stuart\V2\Exercises\Exercises\Exercise3NonCore\obj\Debug\Exercise3NonCore.dll
+C:\Spencer Stuart\V2\Exercises\Exercises\Exercise3NonCore\obj\Debug\Exercise3NonCore.pdb

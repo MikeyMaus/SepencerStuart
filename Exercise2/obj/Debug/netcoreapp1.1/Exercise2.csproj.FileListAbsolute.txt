@@ -1,0 +1,27 @@
+C:\Spencer Stuart\Exercises\Exercise2\bin\Debug\netcoreapp1.1\Exercise2.deps.json
+C:\Spencer Stuart\Exercises\Exercise2\bin\Debug\netcoreapp1.1\Exercise2.runtimeconfig.json
+C:\Spencer Stuart\Exercises\Exercise2\bin\Debug\netcoreapp1.1\Exercise2.runtimeconfig.dev.json
+C:\Spencer Stuart\Exercises\Exercise2\bin\Debug\netcoreapp1.1\Exercise2.dll
+C:\Spencer Stuart\Exercises\Exercise2\bin\Debug\netcoreapp1.1\Exercise2.pdb
+C:\Spencer Stuart\Exercises\Exercise2\obj\Debug\netcoreapp1.1\Exercise2.AssemblyInfo.cs
+C:\Spencer Stuart\Exercises\Exercise2\obj\Debug\netcoreapp1.1\Exercise2.dll
+C:\Spencer Stuart\Exercises\Exercise2\obj\Debug\netcoreapp1.1\Exercise2.pdb
+C:\Spencer Stuart\Exercises\Exercise2\obj\Debug\netcoreapp1.1\Exercise2.csprojResolveAssemblyReference.cache
+C:\CodeZone\SS-master\SS-master\Exercises\Exercise2\bin\Debug\netcoreapp1.1\Exercise2.deps.json
+C:\CodeZone\SS-master\SS-master\Exercises\Exercise2\bin\Debug\netcoreapp1.1\Exercise2.runtimeconfig.json
+C:\CodeZone\SS-master\SS-master\Exercises\Exercise2\bin\Debug\netcoreapp1.1\Exercise2.runtimeconfig.dev.json
+C:\CodeZone\SS-master\SS-master\Exercises\Exercise2\bin\Debug\netcoreapp1.1\Exercise2.dll
+C:\CodeZone\SS-master\SS-master\Exercises\Exercise2\bin\Debug\netcoreapp1.1\Exercise2.pdb
+C:\CodeZone\SS-master\SS-master\Exercises\Exercise2\obj\Debug\netcoreapp1.1\Exercise2.csprojResolveAssemblyReference.cache
+C:\CodeZone\SS-master\SS-master\Exercises\Exercise2\obj\Debug\netcoreapp1.1\Exercise2.AssemblyInfo.cs
+C:\CodeZone\SS-master\SS-master\Exercises\Exercise2\obj\Debug\netcoreapp1.1\Exercise2.dll
+C:\CodeZone\SS-master\SS-master\Exercises\Exercise2\obj\Debug\netcoreapp1.1\Exercise2.pdb
+C:\Spencer Stuart\V2\Exercises\Exercises\Exercise2\bin\Debug\netcoreapp1.1\Exercise2.deps.json
+C:\Spencer Stuart\V2\Exercises\Exercises\Exercise2\bin\Debug\netcoreapp1.1\Exercise2.runtimeconfig.json
+C:\Spencer Stuart\V2\Exercises\Exercises\Exercise2\bin\Debug\netcoreapp1.1\Exercise2.runtimeconfig.dev.json
+C:\Spencer Stuart\V2\Exercises\Exercises\Exercise2\bin\Debug\netcoreapp1.1\Exercise2.dll
+C:\Spencer Stuart\V2\Exercises\Exercises\Exercise2\bin\Debug\netcoreapp1.1\Exercise2.pdb
+C:\Spencer Stuart\V2\Exercises\Exercises\Exercise2\obj\Debug\netcoreapp1.1\Exercise2.csprojResolveAssemblyReference.cache
+C:\Spencer Stuart\V2\Exercises\Exercises\Exercise2\obj\Debug\netcoreapp1.1\Exercise2.AssemblyInfo.cs
+C:\Spencer Stuart\V2\Exercises\Exercises\Exercise2\obj\Debug\netcoreapp1.1\Exercise2.dll
+C:\Spencer Stuart\V2\Exercises\Exercises\Exercise2\obj\Debug\netcoreapp1.1\Exercise2.pdb

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Exercise1": {
+      "commandName": "Project",
+      "commandLineArgs": "3 \"4 , 5, 5\""
+    }
+  }
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>c:\codezone\ss-master\ss-master\exercises\exercise2\safeplacecalculators\voronoicalculator.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\codezone\ss-master\ss-master\exercises\exercise2\safeplacecalculators\safeplacecalculator.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\CodeZone\SS-master\SS-master\Exercises\Exercise1\Program.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\codezone\ss-master\ss-master\exercises\exercise3noncore\properties\assemblyinfo.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>c:\codezone\ss-master\ss-master\exercises\exercise3noncore\nunittester.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\CodeZone\SS-master\SS-master\Exercises\Exercise1\StepsCalculator.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\CodeZone\SS-master\SS-master\Exercises\Exercise2\Program.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>Exercise2</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\CodeZone\SS-master\SS-master\Exercises\Exercise2\SafePlaceCalculators\RandomCalculator.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\CodeZone\SS-master\SS-master\Exercises\Exercise2\SafePlaceCalculators\BruteForceCalculator.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>

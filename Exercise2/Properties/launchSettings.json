@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Exercise2": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\temp\\bombs.txt"
+    }
+  }
+}
